@@ -1,5 +1,5 @@
 # my practice of QA
-...
+```
 git push origin main (push to server)
-...
+```
 ![Apps](https://github.com/zuhrusa/HTML-1/blob/main/doraemon.jpg)
